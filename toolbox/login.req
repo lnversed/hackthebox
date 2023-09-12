@@ -1,0 +1,9 @@
+POST / HTTP/1.1
+Accept-Encoding: gzip, deflate
+Content-Length: 54
+User-Agent: Python-urllib/3.9
+Content-Type: application/x-www-form-urlencoded
+Host: admin.megalogistic.com
+Connection: close
+
+username=admin&password=admin

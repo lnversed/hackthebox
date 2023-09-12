@@ -1,0 +1,11 @@
+server running express (from response header):
+X-Powered-By: Express 
+
+login page running SQLITE (reported by sqlmap)
+
+got user md5 password:
+fdc8cd4cff2c19e0d1022e78481ddf36 = nevergonnagiveyouup
+
+old path:
+PATH=/usr/lib/node_modules/npm/node_modules:/usr/lib/node_modules/npm/bin/node-gyp-bin:/home/algernon/app/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+

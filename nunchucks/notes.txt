@@ -1,0 +1,33 @@
+
+[NOTES]
+webserver using nginx 1.18.0
+webserver using express - test with different headers
+https://archive.fosdem.org/2019/schedule/event/testing_nodejs_security/attachments/slides/2965/export/events/attachments/testing_nodejs_security/slides/2965/Testing_Node_Security.pdf
+
+[???]
+Flinco
+Firstup
+Syncrow
+Firstdev
+Chainlink
+Launchday
+
+
+[USERS]
+newsletter_admin
+support@nunchucks.htb
+
+[PASSWORD]
+StoreNLetters2021
+
+[CREDS]
+  host     : 'localhost',
+  user     : 'newsletter_admin',
+  password : 'StoreNLetters2021',
+  database : 'newsletters'
+
+
+[PRIVESC]
+/etc/cron.d: - interesting cron 'e2scrub_all'
+/usr/bin/gettext.sh - interesting file
+check /etc/profile.d

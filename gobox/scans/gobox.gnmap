@@ -1,0 +1,5 @@
+# Nmap 7.92 scan initiated Sat Jan 15 17:42:22 2022 as: nmap -sC -sV -vv -Pn -oA gobox -p 22,80,8080,9000,9001,9002 10.10.10.245
+# Ports scanned: TCP(6;22,80,8080,9000-9002) UDP(0;) SCTP(0;) PROTOCOLS(0;)
+Host: 10.10.10.245 ()	Status: Up
+Host: 10.10.10.245 ()	Ports: 22/filtered/tcp//ssh///, 80/filtered/tcp//http///, 8080/filtered/tcp//http-proxy///, 9000/filtered/tcp//cslistener///, 9001/filtered/tcp//tor-orport///, 9002/filtered/tcp//dynamid///
+# Nmap done at Sat Jan 15 17:42:25 2022 -- 1 IP address (1 host up) scanned in 3.44 seconds

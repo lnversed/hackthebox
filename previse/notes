@@ -1,0 +1,16 @@
+potential usernames:
+m4lwhere
+newguy
+
+
+Mysql creds in config.php (from sitebackup.zip):
+    $host = 'localhost';
+    $user = 'root';
+    $passwd = 'mySQL_p@ssw0rd!:)';
+    $db = 'previse';
+
+privesc:
+lxd container tool
+
+m4lwhere password:
+ilovecody112235!

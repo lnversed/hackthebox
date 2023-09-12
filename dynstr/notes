@@ -1,0 +1,16 @@
+Creds (from main page port 80):
+    Username: dynadns
+    Password: sndanyd
+    In b64: ZHluYWRuczpzbmRhbnlk
+
+Ddns enabled for:
+    dnsalias.htb
+    dynamicdns.htb
+    no-ip.htb
+
+Ddns api usages:
+    host/nic/update?hostname=your-hostname-here&myip=your-ip-here
+
+privesc:
+/home/bindmgr/support-case-C62796521/C62796521-debugging.script
+/etc/bind/infra.key

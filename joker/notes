@@ -1,0 +1,13 @@
+squid proxy version:
+3.5.12 - released in 2018 july
+
+squid features (?):
+allows GOPHER protocol
+
+CREDS0 (from tftp got squid.conf and then cracked):
+kalamari:ihateseafood
+
+privesc:
+chown root:alekos /home/alekos/backup/dev-1644331201.tar.gz 
+tar cf /home/alekos/backup/dev-1644331501.tar.gz __init__.py application.py data models.py static templates utils.py views.py
+chmod 640 /home/alekos/backup/dev-1644332101.tar.gz 

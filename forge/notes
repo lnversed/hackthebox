@@ -1,0 +1,5 @@
+privesc:
+/usr/lib/grub/i386-pc/password.mod
+crypted_password
+
+/usr/bin/python3 /opt/remote-manage.py

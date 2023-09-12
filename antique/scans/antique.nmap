@@ -1,0 +1,40 @@
+# Nmap 7.92 scan initiated Wed Jan 12 19:45:35 2022 as: nmap -sC -sV -Pn -vv -oA antique 10.10.11.107
+Nmap scan report for 10.10.11.107
+Host is up, received user-set (0.031s latency).
+Scanned at 2022-01-12 19:45:36 CET for 19s
+Not shown: 970 closed tcp ports (conn-refused)
+PORT      STATE    SERVICE        REASON      VERSION
+1/tcp     filtered tcpmux         no-response
+23/tcp    open     tcpwrapped     syn-ack
+144/tcp   filtered news           no-response
+211/tcp   filtered 914c-g         no-response
+691/tcp   filtered resvc          no-response
+1089/tcp  filtered ff-annunc      no-response
+1107/tcp  filtered isoipsigport-2 no-response
+1124/tcp  filtered hpvmmcontrol   no-response
+1165/tcp  filtered qsm-gui        no-response
+1322/tcp  filtered novation       no-response
+1352/tcp  filtered lotusnotes     no-response
+1501/tcp  filtered sas-3          no-response
+1839/tcp  filtered netopia-vo1    no-response
+2009/tcp  filtered news           no-response
+2103/tcp  filtered zephyr-clt     no-response
+2393/tcp  filtered ms-olap1       no-response
+3007/tcp  filtered lotusmtap      no-response
+3551/tcp  filtered apcupsd        no-response
+3814/tcp  filtered neto-dcs       no-response
+4000/tcp  filtered remoteanything no-response
+5226/tcp  filtered hp-status      no-response
+5904/tcp  filtered unknown        no-response
+6510/tcp  filtered mcer-port      no-response
+6666/tcp  filtered irc            no-response
+7201/tcp  filtered dlip           no-response
+8088/tcp  filtered radan-http     no-response
+8652/tcp  filtered unknown        no-response
+10616/tcp filtered unknown        no-response
+15002/tcp filtered onep-tls       no-response
+51103/tcp filtered unknown        no-response
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Jan 12 19:45:55 2022 -- 1 IP address (1 host up) scanned in 19.46 seconds

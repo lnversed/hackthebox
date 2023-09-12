@@ -1,0 +1,5 @@
+[NOTES]
+error produces with post data: username=b&country=Brazil'+AND+Yemen+--+-
+
+[CREDS]
+uhc - *C6A38A5736CBA87E617301ECAB64184671128718 <-- found in mariadb, mysql database, user table

@@ -1,0 +1,228 @@
+id,first_name,last_name,customer,bank_card,card_type
+1,Farly,Iori,Compugen Ltd.,5100175873503211,mastercard
+2,Janka,Mendoza,ProShares UltraShort Nasdaq Biotechnology,3571946772816333,jcb
+3,Murvyn,Dowyer,Flushing Financial Corporation,201739202375408,diners-club-enroute
+4,Prudi,Domini,Tenet Healthcare Corporation,3548153419606033,jcb
+5,Reggis,Gaddie,"ImmunoGen, Inc.",3545363665103055,jcb
+6,Creight,Connolly,Monotype Imaging Holdings Inc.,5002350199692688,mastercard
+7,Brandice,Westoff,Nuveen Preferred Income Opportunites Fund,5602217782691522,bankcard
+8,Drusi,Steffans,"EV Energy Partners, L.P.",374288350494042,americanexpress
+9,Orelia,Fuggle,Chicago Bridge & Iron Company N.V.,5.89349925560364E+018,maestro
+10,Berny,Sleigh,Strattec Security Corporation,3529031425924983,jcb
+11,Decca,Rubinovitch,Bank of America Corporation,3573359184474063,jcb
+12,Arman,Musso,ENI S.p.A.,3557460280235448,jcb
+13,Adriano,Claris,"Sierra Wireless, Inc.",3545810637645274,jcb
+14,Danni,Hitscher,MicroStrategy Incorporated,6.33479405319002E+018,solo
+15,Trudi,Karpinski,Cognex Corporation,3557254471025670,jcb
+16,Tallie,Sturgeon,Comcast Corporation,3553234197385438,jcb
+17,Kippie,Ridulfo,B.O.S. Better Online Solutions,3550225852650523,jcb
+18,Thayne,Prazor,"Entergy New Orleans, Inc.",5.03861017589084E+017,maestro
+19,Jareb,Walkling,American Homes 4 Rent,30433583594285,diners-club-carte-blanche
+20,Dalston,Dikels,Service Corporation International,3528904796509545,jcb
+21,Marietta,Schiementz,"Group 1 Automotive, Inc.",5.61013825254035E+018,china-unionpay
+22,Pavlov,Tuddall,ENSCO plc,4041594738072,visa
+23,Francisco,Drinkel,"Highwoods Properties, Inc.",3549129340399731,jcb
+24,Erika,Maymond,"Syros Pharmaceuticals, Inc.",5.0387915080774E+018,maestro
+25,Garry,Schruurs,"NantKwest, Inc.",3547628485010930,jcb
+26,Henrik,Ashelford,"ING Group, N.V.",6389024029318639,instapayment
+27,Yul,Redihalgh,Ingevity Corporation,3548208885705634,jcb
+28,Mame,Galloway,Mesoblast Limited,337941165271403,americanexpress
+29,Chariot,Holborn,Cerecor Inc.,5.89351332970177E+016,maestro
+30,Pandora,Gelletly,CTI BioPharma Corp.,4405813848973573,visa-electron
+31,Wini,Lissandri,AllianzGI Convertible & Income Fund II,3585850861641392,jcb
+32,Kathye,Wye,"Landcadia Holdings, Inc.",4175004246557139,visa-electron
+33,Marylee,Jowsey,SLM Corporation,5100179278738786,mastercard
+34,Nanci,O'Dooghaine,Sears Holdings Corporation,4175003687792114,visa-electron
+35,Fawne,Trendle,"AutoZone, Inc.",6762916451342820,maestro
+36,Arlen,Barnson,"America Movil, S.A.B. de C.V.",5550987351040374,mastercard
+37,Clarabelle,Marrows,AC Immune SA,201734162970660,diners-club-enroute
+38,Gerty,Dincey,"World Wrestling Entertainment, Inc.",36125275793696,diners-club-international
+39,Bartlet,Bartrop,"The Herzfeld Caribbean Basin Fund, Inc.",3551357587712671,jcb
+40,Johannah,Odam,KKR & Co. L.P.,5002353761793389,mastercard
+41,Aloisia,Toone,Swift Transportation Company,6399410313610658,instapayment
+42,Rahal,Tuke,Atomera Incorporated,6.7675547170096E+018,solo
+43,Catina,Callis,"Crossroads Systems, Inc.",5100145816401989,mastercard
+44,Florance,Gallamore,TCF Financial Corporation,201557873698845,diners-club-enroute
+45,Diandra,Gosswell,BanColombia S.A.,3562559416311818,jcb
+46,Ailis,Uccelli,Hilton Grand Vacations Inc.,5602248376842007,bankcard
+47,Hugibert,Brendish,RAIT Financial Trust,3579525403204721,jcb
+48,Daile,Barnard,Plumas Bancorp,5602252274478369,bankcard
+49,Rory,Castelin,Amaya Inc.,3565674531953134,jcb
+50,Gino,Mandell,CBX (Listing Market NYSE Networks AE,4041374671519959,visa
+51,Krystal,Duckering,Ares Capital Corporation,3539923548861910,jcb
+52,Cybil,Medler,Visa Inc.,6.77116099852162E+018,laser
+53,Prudi,Lighterness,Anixter International Inc.,3588795050858116,jcb
+54,Lib,Verillo,"Neurotrope, Inc.",374283163934664,americanexpress
+55,Hamlin,Dinley,"Engility Holdings, Inc.",3560878532951527,jcb
+56,Pavia,Blaxill,Teva Pharmaceutical Industries Limited,4.91148004146935E+018,switch
+57,Dacey,Parysowna,Kilroy Realty Corporation,3540864610832032,jcb
+58,Humbert,Froude,"Continental Building Products, Inc.",3548536488250966,jcb
+59,Hildegaard,Parish,AlphaMark Actively Managed Small Cap ETF,374288849907539,americanexpress
+60,Pincus,Daniell,Nielsen N.V.,3546091127651911,jcb
+61,Aime,Dadley,"American Financial Group, Inc.",5.61059065578547E+018,china-unionpay
+62,Constance,Puller,STERIS plc,4905287591629010,switch
+63,Roderick,Threadgill,MIND C.T.I. Ltd.,4041372840256,visa
+64,Allard,Seine,"Aviat Networks, Inc.",5602241990668965,bankcard
+65,Gasper,Stokey,South State Corporation,3554455475076550,jcb
+66,Khalil,Vassar,Oxford Immunotec Global PLC,6.30494280584987E+016,laser
+67,Kelly,Stanbra,"M I Acquisitions, Inc.",5.60221098180095E+017,china-unionpay
+68,Cele,Rodenburg,"Fauquier Bankshares, Inc.",201412127134132,diners-club-enroute
+69,Sonnnie,Blasiak,Silvercrest Asset Management Group Inc.,3531827802119816,jcb
+70,Flory,Brennan,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,5048371700207374,mastercard
+71,Loydie,Wernham,Student Transportation Inc,3549035093114161,jcb
+72,Tiebold,Normant,Assured Guaranty Ltd.,5048372271275154,mastercard
+73,Beilul,Paddick,Neff Corporation,3539141905658395,jcb
+74,Annelise,Rodgers,"Cyclacel Pharmaceuticals, Inc.",3532571306429698,jcb
+75,Alida,Hull,"First Mid-Illinois Bancshares, Inc.",374288496875021,americanexpress
+76,Lammond,Filpi,"ADOMANI, Inc.",5.64182478070868E+017,switch
+77,Dalenna,Mowsdell,"AG Mortgage Investment Trust, Inc.",5.03868492637554E+017,maestro
+78,Tamera,Pudsall,"CytomX Therapeutics, Inc.",3549436252403967,jcb
+79,Farr,Kenryd,"The Ensign Group, Inc.",4917119534297421,visa-electron
+80,Moshe,Rosindill,"Global Brokerage, Inc.",3558002073306710,jcb
+81,Opalina,Gothard,BLDRS Developed Markets 100 ADR Index Fund,5602233751854108,bankcard
+82,Chad,Bathowe,Peregrine Pharmaceuticals Inc.,5007663986628086,mastercard
+83,Saundra,Styan,First Trust Taiwan AlphaDEX Fund,3570798647002131,jcb
+84,Reece,Hawthorn,"Red Hat, Inc.",3586257192032672,jcb
+85,Lucien,Turmall,"Vantiv, Inc.",374288985287456,americanexpress
+86,Sheela,McMoyer,"Care.com, Inc.",5002359585621979,mastercard
+87,Carlina,Mount,PIMCO New York Municipal Income Fund,3557350737017194,jcb
+88,Dene,Mitroshinov,Constellium N.V.,4.90562632268229E+018,switch
+89,Tamra,Gurling,"Boston Properties, Inc.",3550524321980358,jcb
+90,Malory,Bagge,Heico Corporation,6370128554679603,instapayment
+91,Hester,Ferrero,Tesoro Corporation,337941396912577,americanexpress
+92,Felicdad,Cardillo,"Freshpet, Inc.",5038599927531851,maestro
+93,Haskel,Kiefer,Momo Inc.,6.33450336126856E+018,solo
+94,Belicia,Grigoriscu,"B. Riley Financial, Inc.",30115429417249,diners-club-carte-blanche
+95,Aubrie,Shevell,"Dynex Capital, Inc.",5010125323777393,mastercard
+96,Maurizio,Allans,Barings Participation Investors,3558841767959379,jcb
+97,Clemmie,Mallan,"Tremor Video, Inc.",5317272517049674,mastercard
+98,Livvie,Sygroves,"Commerce Bancshares, Inc.",4026711145482182,visa-electron
+99,Francoise,Boyes,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",6304364194891826,maestro
+100,Ardeen,Skylett,"HarborOne Bancorp, Inc.",30030562511023,diners-club-carte-blanche
+101,Caroline,Doulton,Eaton Vance Municipal Income 2028 Term Trust,5100131282334615,mastercard
+102,Charla,Whilder,Vince Holding Corp.,3587228647077660,jcb
+103,Tully,Kynson,"CareTrust REIT, Inc.",5.60224792426797E+017,china-unionpay
+104,Travis,Gadson,"Spring Bank Pharmaceuticals, Inc.",3534490916202171,jcb
+105,Archibaldo,Cowins,FIRST REPUBLIC BANK,3555313384673893,jcb
+106,Cathee,Haggis,National Research Corporation,3562620206656752,jcb
+107,Milo,Cattemull,"The Andersons, Inc.",5610472370504542,bankcard
+108,Sophi,Cossans,"Epizyme, Inc.",3582473484682140,jcb
+109,Tadio,Cadigan,KBS Fashion Group Limited,5.89337310056681E+018,maestro
+110,Wilton,McHaffy,"Taubman Centers, Inc.",3573574700772267,jcb
+111,Elsie,Bodiam,Ultrapar Participacoes S.A.,3582381951634918,jcb
+112,Leone,Hindes,Briggs & Stratton Corporation,3563062176021320,jcb
+113,Ludovico,Forsdyke,"Ocular Therapeutix, Inc.",201707692422501,diners-club-enroute
+114,Adella,Mandrey,"Sun Bancorp, Inc.",6372416490143984,instapayment
+115,Hilde,Pedrol,"Leggett & Platt, Incorporated",3557417133461050,jcb
+116,Valentino,Scarf,Alpha and Omega Semiconductor Limited,3536153135578429,jcb
+117,Gill,Coston,LSI Industries Inc.,3558827935450409,jcb
+118,Denna,Huson,HDFC Bank Limited,201910081753417,diners-club-enroute
+119,Chrissie,Loudyan,"BioLife Solutions, Inc.",3571691179847792,jcb
+120,Avram,Dudden,KB Home,6761174525174776,maestro
+121,Julina,Mintoff,Public Service Enterprise Group Incorporated,5610608944546762,bankcard
+122,Sheffy,Preshaw,"LogMein, Inc.",3541275336788342,jcb
+123,Christal,Pettiford,Ciner Resources LP,6.75964237001198E+018,maestro
+124,Julianne,Mayoral,First Trust Emerging Markets Small Cap AlphaDEX Fund,3546794555388589,jcb
+125,Noe,Bortoletti,"SciClone Pharmaceuticals, Inc.",3576964086701534,jcb
+126,Dudley,Causley,"Rockwell Collins, Inc.",6759349069498856,switch
+127,Aime,Iddens,Nuveen Floating Rate Income Opportuntiy Fund,374283329017768,americanexpress
+128,Lynn,Americi,"Onvia, Inc.",5610869238816465,china-unionpay
+129,Pattin,Postians,Davis Select Worldwide ETF,5602231142368424,china-unionpay
+130,Margery,Kippin,Eaton Vance Tax-Managed Buy-Write Income Fund,6.70688063990554E+018,laser
+131,Orlando,Mileham,Tennessee Valley Authority,5007663020490162,mastercard
+132,Tabina,Braksper,PacWest Bancorp,5461697963269695,mastercard
+133,Christiano,Thomasen,"TESARO, Inc.",374283921576252,americanexpress
+134,Adrianna,Pettis,Videocon d2h Limited,3589567337173331,jcb
+135,Jordan,Verissimo,"MS Income Securities, Inc.",5602254105377117,bankcard
+136,Consolata,Barrs,"Omega Healthcare Investors, Inc.",3541571382261089,jcb
+137,Boyce,Dungate,Teekay Tankers Ltd.,3586934612822649,jcb
+138,Carmina,Botley,Greif Bros. Corporation,3578544419045292,jcb
+139,Geraldine,Gatward,Pimco New York Municipal Income Fund II,604783006182662,maestro
+140,Alexi,Paolone,PowerShares DWA Momentum Portfolio,201564414117475,diners-club-enroute
+141,Klaus,Maryott,Navios Maritime Holdings Inc.,201590075409505,diners-club-enroute
+142,Maryanna,Tysack,"Mobile Mini, Inc.",201723677209888,diners-club-enroute
+143,Leontyne,Nind,Hersha Hospitality Trust,3545918633938120,jcb
+144,Blancha,Cull,PowerShares DWA Energy Momentum Portfolio,201760932254572,diners-club-enroute
+145,Der,Stife,"Telephone and Data Systems, Inc.",3560557992307137,jcb
+146,Delbert,Hyam,"Plains Group Holdings, L.P.",4026610673531974,visa-electron
+147,Blinny,Paszak,Criteo S.A.,5100149819000103,mastercard
+148,Deana,Huban,Valvoline Inc.,3539279915727378,jcb
+149,Ganny,Bunn,Repligen Corporation,30290688271379,diners-club-carte-blanche
+150,Marty,Kasbye,"Alarm.com Holdings, Inc.",4.93644882496981E+018,switch
+151,Janaya,Capper,Corporate Office Properties Trust,6384464759543201,instapayment
+152,Kippy,Belcham,"Morgan Stanley Asia-Pacific Fund, Inc.",30145978464896,diners-club-carte-blanche
+153,Lorrin,MacKaile,Ovid Therapeutics Inc.,5537886571078248,mastercard
+154,Lynnea,Rupke,"Total System Services, Inc.",3562712370204723,jcb
+155,Jud,Gaitone,Coca-Cola Bottling Co. Consolidated,6762890801209304,maestro
+156,Job,Bowden,VictoryShares Emerging Market Volatility Wtd ETF,5591656919824170,diners-club-us-ca
+157,Damara,Stoaks,"Pretium Resources, Inc.",30495265977351,diners-club-carte-blanche
+158,Madonna,Januszewski,"Gabelli Equity Trust, Inc. (The)",3585322328244418,jcb
+159,Wernher,Gaynsford,"Forterra, Inc.",4913467195723274,visa-electron
+160,Dorita,Dahl,CVS Health Corporation,3585708055050582,jcb
+161,Park,De Haven,Dow Chemical Company (The),3572527881147924,jcb
+162,Wallas,Terne,Range Resources Corporation,6.76778440617822E+018,solo
+163,Magnum,Guidelli,"Washington Federal, Inc.",3540402645856435,jcb
+164,Hulda,Ethelston,"China Automotive Systems, Inc.",3566416218574414,jcb
+165,Guilbert,Libbey,"Peak Resorts, Inc.",201473816726711,diners-club-enroute
+166,Editha,Vesco,Ohio Valley Banc Corp.,4026948319902435,visa-electron
+167,Tito,Pierro,FORM Holdings Corp.,6.30422283577585E+016,laser
+168,Morie,Cocklie,Conatus Pharmaceuticals Inc.,4026253265696960,visa-electron
+169,Tiffani,Stothart,"Opko Health, Inc.",5254851922474372,mastercard
+170,Fionna,Kaser,"OpGen, Inc.",6.7716194395661E+016,laser
+171,Aurelea,Triggle,Northern Technologies International Corporation,201950923512795,diners-club-enroute
+172,Tiffanie,Colbourn,Comcast Corporation,3533440952916730,jcb
+173,Juana,Klee,Enersys,3534084147869690,jcb
+174,Antonella,Woolis,"NiSource, Inc",4739062475826,visa
+175,Anna,Cherrie,"Ultra Clean Holdings, Inc.",3553006174223257,jcb
+176,Wilfred,Winman,"FormFactor, Inc.",4356534616541231,visa
+177,Mychal,Thomlinson,CNX Coal Resources LP,5.02053683870248E+018,maestro
+178,Loleta,Petett,Invesco High Income Trust II,3589435125112616,jcb
+179,Jorey,Mangan,"Hanwha Q CELLS Co., Ltd. ",604118713133825,maestro
+180,Clementius,De Andreis,"Extended Stay America, Inc.",3544640161233283,jcb
+181,Barbra,Palliser,"CAS Medical Systems, Inc.",6761440524224577,maestro
+182,Kassie,Shipman,Arlington Asset Investment Corp,3564653188490062,jcb
+183,Evita,Gresly,Altisource Residential Corporation,201485340799436,diners-club-enroute
+184,Zolly,Bellanger,"New Relic, Inc.",3570496596373575,jcb
+185,Adeline,Staneland,VEON Ltd.,3552489676931208,jcb
+186,Damaris,Chivrall,Siebert Financial Corp.,5.03831538865186E+018,maestro
+187,Whittaker,Maffi,Harvest Capital Credit Corporation,3578906182504641,jcb
+188,Tyne,Jaxon,"Heritage-Crystal Clean, Inc.",3587929747239320,jcb
+189,Gale,Krale,"Liberty TripAdvisor Holdings, Inc.",3545923740589055,jcb
+190,Ursuline,Pinar,Education Realty Trust Inc.,5.64182726545092E+017,switch
+191,Hall,Marchand,Weingarten Realty Investors,3572935107658618,jcb
+192,Koren,Redwall,"B. Riley Financial, Inc.",3573556470381791,jcb
+193,Matty,Cadigan,JM Global Holding Company,3544882868440197,jcb
+194,Esma,Dewdney,Seneca Foods Corp.,201989113312590,diners-club-enroute
+195,Cathie,Odell,ChannelAdvisor Corporation,4041595325960,visa
+196,Gianina,Levick,"Ocean Bio-Chem, Inc.",3544241244138753,jcb
+197,Rosabella,Cleave,"Neuralstem, Inc.",3550153680554503,jcb
+198,Maitilde,Penticost,Euronav NV,5113441724540736,mastercard
+199,Addi,Dukelow,Marriott International,5.03814336359038E+017,maestro
+200,Dedie,Glenn,Black Hills Corporation,5.60221874070369E+018,china-unionpay
+201,Roxy,Auton,First Trust Japan AlphaDEX Fund,5537376596348271,diners-club-us-ca
+202,Fitz,Czaple,Orbotech Ltd.,3549122193501107,jcb
+203,Allissa,Cumberlidge,"FARO Technologies, Inc.",5327480803817252,mastercard
+204,Fern,Neil,FIRST REPUBLIC BANK,5602242361877474,bankcard
+205,Brigid,Konert,"Eagle Bancorp, Inc.",5010127815917107,mastercard
+206,Domeniga,Faley,"Twenty-First Century Fox, Inc.",3582365589167565,jcb
+207,Clareta,McMillan,"Raven Industries, Inc.",3574906926237676,jcb
+208,Myranda,Dawdary,BlackRock Science and Technology Trust,3546708116868913,jcb
+209,Teriann,Huelin,Access National Corporation,6.70657545161704E+018,laser
+210,Tucky,Tregale,Bed Bath & Beyond Inc.,4913628363218781,visa-electron
+211,Corbie,Seczyk,"CYS Investments, Inc.",5.02062657282714E+018,maestro
+212,Barret,Keling,Barrick Gold Corporation,3529683987048070,jcb
+213,Maud,Diggar,IntriCon Corporation,5610802923679468,china-unionpay
+214,Sutherlan,Murby,"Cardiovascular Systems, Inc.",3579169571919784,jcb
+215,Normy,Hanton,iShares 0-5 Year Investment Grade Corporate Bond ETF,30242018650103,diners-club-carte-blanche
+216,Myrtie,Churn,Signature Bank,30099698104003,diners-club-carte-blanche
+217,Augustin,Lauga,"Anthem, Inc.",6385689794291684,instapayment
+218,Kipp,Gussin,"Red Hat, Inc.",4.90537978468351E+017,switch
+219,Izabel,Littrik,Amplify Online Retail ETF,5602252249635580,bankcard
+220,Dorie,Paulus,PennyMac Mortgage Investment Trust,3555596587746710,jcb
+221,Jimmy,Caras,J & J Snack Foods Corp.,3560804021306338,jcb
+222,Reg,Witherop,"Covenant Transportation Group, Inc.",6331103309906542,switch
+223,Riordan,Guilliatt,"Blackrock MuniHoldings Fund, Inc.",5602248531846216,china-unionpay
+224,Tillie,Gillinghams,"Cullen/Frost Bankers, Inc.",4041590891578,visa
+225,Portia,Farncomb,"Avinger, Inc.",201644806693703,diners-club-enroute
+226,Deane,De Moreno,"China Commercial Credit, Inc.",337941269432570,americanexpress
+227,Dominga,Colthard,Cellect Biotechnology Ltd.,6391362483570295,instapayment
